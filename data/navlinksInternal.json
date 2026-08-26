@@ -18,5 +18,10 @@
         "url": "/tools/",
         "label": "Tools",
         "external": false
+    },
+    {
+        "url": "/services/",
+        "label": "Services",
+        "external": false
     }
 ]
