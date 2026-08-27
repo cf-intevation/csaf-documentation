@@ -13,7 +13,7 @@ draft: false
 ### [Secvisogram](https://secvisogram.github.io/)
 Secvisogram is a tool for creating and editing advisories in CSAF format.
 {{% source "https://github.com/secvisogram/secvisogram/" %}}
-{{% license Apache-2.0 %}}
+{{% license MIT %}}
 {{% /card %}}
 
 {{% card %}}
@@ -26,5 +26,19 @@ A tool to visualize the CSAF JSON Schema.
 ### [CSAF Provider Online Check](https://check.provider.csaf.dev/)
 A website which provides easy access to the CSAF Provider Checker.
 {{% source "https://github.com/csaf-tools/provider-online-check/" %}}
+{{% license Apache-2.0 %}}
+{{% /card %}}
+
+{{% card %}}
+### [CSAF Provider Index](https://csaf-provider-index.intevation.de)
+A website listing known CSAF Providers and Publishers. Users can submit new entries to the index.
+{{% source "https://heptapod.host/intevation/csaf-provider-index" %}}
+{{% license Apache-2.0 %}}
+{{% /card %}}
+
+{{% card %}}
+### [Sec-O-Simple](https://sec-o-simple.github.io/)
+A website guiding you through the creation of CSAF documents. Allows editing of existing documents as well.
+{{% source "https://github.com/sec-o-simple/sec-o-simple" %}}
 {{% license Apache-2.0 %}}
 {{% /card %}}
